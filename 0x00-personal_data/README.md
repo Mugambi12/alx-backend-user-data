@@ -1,5 +1,3 @@
-Certainly! Below is a draft for the README file for your project:
-
 # alx-backend-user-data
 
 ## 0x00. Personal data
